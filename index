@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+    <title>Jabont
+    </title>
+    <style>
+      body{
+        background:#eee;
+        font-family:sans-serif;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        text-align:center;
+      }
+      a{
+        color:hsl(20,100%,60%);
+        text-decoration: none;
+      }
+      .social{
+        font-size:2em;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="main">
+      <h1>
+        Yossawan Thatasana 😎
+      </h1>
+      <p>
+        Welcome to my site
+      </p>
+      <p class="social">
+       
+        <a href="https://www.instagram.com/pl_ppppp/" class="">
+          <i class="fab fa-instagram">
+          </i>
+        </a>
+        
+        <a href="https://twitter.com/pl_ppppp" class="">
+          <i class="fab fa-twitter">
+          </i>
+        </a>
+        
+        <a href="https://www.facebook.com/profile.php?id=100004067014521" class="">
+          <i class="fab fa-facebook">
+          </i>
+        </a>
+        
+        <a href="akyossawan@gmail.com" class="">
+          <i class="fab fa-email">
+          </i>
+        </a>
+        
+      </p>
+    </div>
+  </body>
+</html>
